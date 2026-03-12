@@ -18,7 +18,7 @@ a, a:visited, a:link { color:#a66347; text-decoration:underline; }
 
 a:hover { color: #666666; }
 
-h1 { font-size:18px; margin:0; color:#333333; border-bottom: 1px dashed #333333; }
+h1 { font-size:18px; margin:0; color:aqua; border-bottom: 1px dashed #333333; }
 
 h2 { font-size:12px; margin:0; color:#333333; border-bottom: 1px dashed #333333; border-top:1px dotted #333333; }
 
